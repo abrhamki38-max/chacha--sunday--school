@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "ጫጫ ቅዱስ ገብርኤል ሰንበት ትምህርት ቤት",
+    "slug": "chacha-sunday-school-admin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {"resizeMode":"contain","backgroundColor":"#F4F7FC"},
+    "android": {"package":"com.chacha.sundayschool.admin"},
+    "ios": {"bundleIdentifier":"com.chacha.sundayschool.admin"}
+  }
+}
